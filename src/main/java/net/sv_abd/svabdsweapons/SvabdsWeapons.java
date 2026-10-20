@@ -1,5 +1,7 @@
 package net.sv_abd.svabdsweapons;
 
+import foundry.veil.api.client.render.post.PostProcessingManager;
+import net.minecraft.resources.ResourceLocation;
 import net.sv_abd.svabdsweapons.block.ModBlocks;
 import net.sv_abd.svabdsweapons.entity.ModEntities;
 import net.sv_abd.svabdsweapons.item.ModItems;
