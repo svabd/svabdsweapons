@@ -91,7 +91,7 @@ public class LuxBolt extends Projectile {
                 livingTarget.hurt(this.damageSources().thrown(this, this.getOwner()), 5.0F);
 
                 if (livingTarget instanceof Player player) {
-
+                    //TODO add flashbang post
                 }
             }
         }
